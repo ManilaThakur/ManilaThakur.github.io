@@ -296,9 +296,12 @@
 			
 				
 			.bat{
+				padding: 0.9px 3px;
+				border-radius: 3px;
 				position: absolute;
-				top: 8px;
-				right: 12px;
-				color: red;
+				top: 3px;
+				right: 7px;
+				background-color: red;
+				color: white;
 			}
 			
